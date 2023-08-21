@@ -1,0 +1,29 @@
+<div id="div-1"></div>
+<div id="div-2"></div>
+<div id="div-3"></div>
+<style>
+  body{
+    background-color: #6592CF;
+  }
+  div{
+    background-color: #060F55;
+    width: 100px;
+    height: 150px;
+    position: fixed;
+  }
+  #div-1 {
+    border-radius: 50px 50px 0px 0px;
+    bottom: 0px;
+    left: 90px;
+  }
+  #div-2 {
+    border-radius: 50px 50px 0px 0px;
+    bottom: 0px;
+    left: 210px;
+  }
+  #div-3 {
+    border-radius: 0px 0px 50px 50px;
+    top: 0px;
+    left: 150px;
+  }
+</style>
