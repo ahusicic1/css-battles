@@ -1,0 +1,25 @@
+<div id="div1"></div>
+<div id="div2"></div>
+<style>
+body{
+  background-color: #F5D6B4;
+  margin: 0;
+}
+div{
+    position: absolute;
+    width: 0;
+    height: 0;
+    left: 100px; 
+}
+#div1 {
+    border-bottom: 200px solid transparent;
+    border-right: 200px solid #D86F45;
+    top: 50px;
+}
+#div2 {
+    border-bottom: 100px solid transparent;
+    border-right: 100px solid #D86F45;
+    top: 150px; 
+    z-index: 2;
+}
+</style>
