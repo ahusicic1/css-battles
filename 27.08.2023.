@@ -1,0 +1,40 @@
+
+<div class="s a1"></div>
+<div class="e a2"></div>
+<div class="e b2"></div>
+<div class="s b1"></div>
+<style>
+  .s{
+    position: absolute;
+    left: 180px;
+    width: 40px;
+    height: 40px;
+  }
+  .a1 {
+    top: 25px;
+  }
+  .b1 {
+    bottom: 25px;
+  }
+  .e {
+    position: absolute;
+    width: 160px;
+    height: 80px;
+  }
+  .a2 {
+     left: 120px;
+    top: 160px;
+    border-radius: 0 0 75px 75px;
+  }
+  .b2 {
+    left: 120px;
+    top: 60px;
+    border-radius: 75px 75px 0 0;
+  }
+  div {
+    background: #0B2429;
+  }
+  body {
+    background: #998235
+  }
+</style>
