@@ -1,0 +1,2 @@
+<p><style>*
+{background:#66284A}p{background:#F0CD48;width:140;height:140px;margin:100+142;border-radius:20px;outline:solid  10px#66284A;box-shadow:-40px -40px #F0CD48} p:after{content:"";background:#66284A;position:fixed;top:120;left:170;width:30;height:30;border-radius:50%;box-shadow:70px 0 #66284A,35px 35px #66284A;-webkit-box-reflect:below 40px}
