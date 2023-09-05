@@ -1,0 +1,12 @@
+<div id="a"></div>
+<div id="b"></div>
+<div id="c"></div>
+<div id="d"></div>
+<style>
+  *{background:#763EDF}
+  div {width: 80px;height: 80px;background: #6BD0FA;}
+  #a{margin-top:70px;margin-left:115px;}
+  #b{margin-top:-100px;margin-left:215px;}
+  #c{margin-top:20px;margin-left:195px;}
+  #d{margin-top:-60px;margin-left:94px;}
+</style>
